@@ -1,1 +1,1 @@
-# github-initialization test
+# github-initialization
